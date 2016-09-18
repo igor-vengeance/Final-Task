@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1474207360334" stop="1474207382057" version="1.4.6">
+    <name>Default Suite</name>
+    <title>Default Suite : FinalTask[]</title>
+    <test-cases>
+        <test-case start="1474207376019" stop="1474207380515" status="passed">
+            <name>contactUsNegativeTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="E-2"/>
+                <label name="story" value="Verify that error message appears if Message area is empty"/>
+                <label name="feature" value="Contact us"/>
+                <label name="host" value="HomeBase"/>
+                <label name="thread" value="4380@HomeBase.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

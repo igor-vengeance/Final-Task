@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1474207431372" stop="1474207451433" version="1.4.6">
+    <name>Default Suite</name>
+    <title>Default Suite : FinalTask[]</title>
+    <test-cases>
+        <test-case start="1474207448356" stop="1474207450483" status="passed">
+            <name>searchTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="E-4"/>
+                <label name="story" value="Verify the ability to search items"/>
+                <label name="feature" value="Search"/>
+                <label name="host" value="HomeBase"/>
+                <label name="thread" value="4596@HomeBase.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
